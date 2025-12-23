@@ -1,0 +1,7 @@
+{
+  "name": "ABC FX - Premium Forex Brokerage",
+  "description": "A high-performance, manual brokerage platform for Forex, Gold, and Crypto trading with a premium dark theme and administrative management portal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
